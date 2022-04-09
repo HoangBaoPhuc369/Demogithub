@@ -1,0 +1,5 @@
+com\mycompany\mycart\entities\Product.class
+com\mycompany\mycart\entities\Category.class
+com\mycompany\mycart\helper\FactoryProvider.class
+com\mycompany\mycart\entities\User.class
+com\mycompany\mycart\servlets\RegisterServlet.class
